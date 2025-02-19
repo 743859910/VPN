@@ -4,55 +4,13 @@
 
 # 高速机场推荐：【一元机场】
 
-传家宝-50G
-年付 ¥ 12.00
-月流量：50G
-地区：香港日本新加坡美国
-解锁 Netflix, Disney+
-不限速，不限连接数
+传家宝-50G 年付¥ 12.00 每月流量：50G 地区：香港日本新加坡美国 解锁Netflix, Disney+ 不限速，不限连接数
 
-传世珍宝-300G
-季付 ¥ 15.00
-月流量：300GB
-地区：香港日本新加坡美国
-解锁 Netflix, Disney+
-不限速，不限连接数
+传世珍宝-300G 季付¥ 15.00 每月流量：300GB 地区：香港日本新加坡美国 解锁Netflix, Disney+ 不限速，不限连接数
 
-艺术典藏-500G
-月付 ¥ 7.00
-月流量：500GB
-地区：香港日本新加坡美国
-解锁 Netflix, Disney+
-不限速，不限连接数
+艺术典藏-500G 月付¥ 7.00 每月流量：500GB 地区：香港日本新加坡美国 解锁Netflix, Disney+ 不限速，不限连接数
 
 网站注册地址：【一元机场官网（[点击注册](https://xn--4gq62f52gdss.ink/#/register?code=Z5CxTstK)）】
-
----
-
-# 高速机场推荐：【FSCloud】
-
-小份套餐
-年付 ¥ 13.00
-每月 100G 流量
-netflix,chagpt解锁
-99.99% SLA 保证
-1Gbps 带宽保证
-
-中份套餐
-季付 ¥ 9.00
-每月 350G 流量
-netflix,chagpt解锁
-99.99% SLA 保证
-1Gbps 带宽保证
-
-大份套餐
-月付 ¥ 10.00
-每月 1200G 流量
-netflix,chagpt解锁
-99.99% SLA 保证
-1Gbps 带宽保证
-
-网站注册地址：【FSCloud官网（[点击注册](https://dash.fscloud.homes/#/register?code=pfNqSH2D)）】
 
 ---
 
@@ -67,6 +25,18 @@ netflix,chagpt解锁
 免费节点有流量限制，且延迟较高，推荐有条件尽量购买套餐。 免费节点需要每天签到增加流量。 免费用户5天不用不签到，流量会被自动清空，清空后可再签到获取流量
 
 网站注册地址：【V2free官网（[点击注册](https://w1.v2free.cc/auth/register?code=VpdE)）】
+
+---
+
+# 高速机场推荐：【FSCloud】
+
+小份套餐 年付¥ 13.00 每月100G流量 netflix,chagpt解锁 99.99% SLA保证 1Gbps带宽保证
+
+中份套餐 季付¥ 9.00 每月350G流量 netflix,chagpt解锁 99.99% SLA保证 1Gbps带宽保证
+
+大份套餐 月付¥ 10.00 每月1200G流量 netflix,chagpt解锁 99.99% SLA保证 1Gbps带宽保证
+
+网站注册地址：【FSCloud官网（[点击注册](https://dash.fscloud.homes/#/register?code=pfNqSH2D)）】
 
 ---
 
