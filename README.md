@@ -103,7 +103,7 @@ New_2024_420GB 月付¥ 20.00 每月420GB流量
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{VPN}/count.svg)
+![name](https://api.likepoems.com/counter/get/@VPN)
 
 ---
 
