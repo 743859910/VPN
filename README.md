@@ -82,23 +82,23 @@ New_2024_420GB 月付¥ 20.00 每月420GB流量
 ---
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/VPN/master/img/image/images/1.webp">
+  <img src="img/image/images/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/VPN/master/img/image/images/2.webp">
+  <img src="img/image/images/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/VPN/master/img/image/images/3.webp">
+  <img src="img/image/images/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/VPN/master/img/image/images/4.webp">
+  <img src="img/image/images/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/VPN/master/img/image/images/5.webp">
+  <img src="img/image/images/5.webp">
 </p>
 
 ---
