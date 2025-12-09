@@ -103,10 +103,6 @@ New_2024_420GB 月付¥ 20.00 每月420GB流量
 
 ---
 
-![name](https://api.likepoems.com/counter/get/@VPN)
-
----
-
 昵称：我只是你的过客
 
 个性签名：每个人都是每个人的过客
