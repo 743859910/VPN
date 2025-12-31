@@ -113,6 +113,6 @@ New_2024_420GB 月付¥ 20.00 每月420GB流量
 
 [MIT License](https://github.com/743859910/VPN/blob/master/LICENSE)
 
-Copyright © 2008 - 2025 743859910. All Rights Reserved. 我只是你的过客工作室. 版权所有
+Copyright © 2008 - 2026 743859910. All Rights Reserved. 我只是你的过客工作室. 版权所有
 
 ---
